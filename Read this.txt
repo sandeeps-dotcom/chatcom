@@ -1,0 +1,5 @@
+Install all modules given below before running :
+react-redux
+redux
+react-thunk
+react-router-dom
